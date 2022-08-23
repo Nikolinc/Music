@@ -1,6 +1,6 @@
 import { NestFactory } from '@nestjs/core';
 import { async } from 'rxjs';
-import { AppModule } from './app.modul';
+import { AppModule } from './app.module';
 
 const start = async () => {
   try {
